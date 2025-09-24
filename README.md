@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="OEoqUgqz3rTVx6PLI0A7xp-neXx_BsaHliy0lAbONqc" />
 # Mi radiografía dental fue expuesta sin mi consentimiento — y yo la arreglé.
 
 > *Mi nombre y mi número de cédula aparecieron en una radiografía dental pública en Hugging Face.*  
